@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="GlassDoor Suite">
+	<test name="GlassDoor">
+		<classes>
+			<class name="am.qa.ituniversity.automation.GlassdoorTest">
+			</class>
+		</classes>
+	</test>
+</suite>
